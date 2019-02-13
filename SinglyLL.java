@@ -1,7 +1,7 @@
 /*
 
-Name: Sean Myko C. Baang
-Section: CC13 CCB
+Name: secret :p
+Section: 
 Date submitted: 12/1/2018
 
 Description: Singly Linked List.
